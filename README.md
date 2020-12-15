@@ -11,15 +11,13 @@
 
 - 🌱 I’m currently learning **FAST API, Node JS, PyTorch, Deep Generative Modelling, Sound Processing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NeerajSahani](https://github.com/NeerajSahani)
-
-- 📝 I regularly write articles on [https://programmerblog.pythonanywhere.com](https://programmerblog.pythonanywhere.com)
+- 📝 I regularly write articles on [AI Blog](https://programmerblog.pythonanywhere.com)
 
 - 💬 Ask me about **C, Python, Machine Learning, Deep Learning, Statistics, Big Data Analytics, R**
 
 - 📫 How to reach me **Neerajsahani9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/172Sbd2widSkpZm5vllf3Zld_ZXR1TGY5/view?usp=sharing](https://drive.google.com/file/d/172Sbd2widSkpZm5vllf3Zld_ZXR1TGY5/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/172Sbd2widSkpZm5vllf3Zld_ZXR1TGY5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
