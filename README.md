@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neeraj Sahani</h1>
-<h3 align="center">Data Scientist | Python Developer</h3>
+<h3 align="center">ASE @ TCS | Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajsahani&label=Profile%20views&color=0e75b6&style=flat" alt="neerajsahani" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Social Media](https://github.com/NeerajSahani/Social-Media)
 
-- 🌱 I’m currently learning **RabbitMQ**
+- 🌱 I’m currently learning **SAP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NeerajSahani](https://github.com/NeerajSahani)
 
