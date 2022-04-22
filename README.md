@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Social Media](https://github.com/NeerajSahani/Social-Media)
 
-- 🌱 I’m currently learning **SAP**
+- 🌱 I’m currently learning **Ethical Hacking**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NeerajSahani](https://github.com/NeerajSahani)
 
