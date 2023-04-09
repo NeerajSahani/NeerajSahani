@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/neerajsahani4" target="blank"><img src="https://img.shields.io/twitter/follow/neerajsahani4?logo=twitter&style=for-the-badge" alt="neerajsahani4" /></a> </p>
 
-- 🔭 I’m currently working on [Social Media](https://github.com/NeerajSahani/Social-Media)
+- 🔭 I’m currently working on [NEWS](https://github.com/NeerajSahani/NEWS)
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
