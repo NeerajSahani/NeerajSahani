@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **Neerajsahani9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/172Sbd2widSkpZm5vllf3Zld_ZXR1TGY5/view?usp=sharing](https://drive.google.com/file/d/172Sbd2widSkpZm5vllf3Zld_ZXR1TGY5/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bxTbXcK7Ike9nr44mf6T-NQD215chWzL/view?usp=sharing](https://drive.google.com/file/d/1bxTbXcK7Ike9nr44mf6T-NQD215chWzL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
